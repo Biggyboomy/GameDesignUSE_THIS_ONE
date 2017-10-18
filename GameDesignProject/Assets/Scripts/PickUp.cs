@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PickUp : MonoBehaviour {
 
     public GameObject currentObj;
     bool isHolding;
     public GameObject holder;
+    public Text pressQ;
 
 	// Use this for initialization
 	void Start () {
@@ -19,6 +21,7 @@ public class PickUp : MonoBehaviour {
         // Pick up objects
         if (Input.GetKeyDown("q") && currentObj && !isHolding)
         {
+            resetQ();
             isHolding = true;
             currentObj.transform.position = holder.transform.position;
             currentObj.transform.parent = holder.transform;
@@ -39,6 +42,7 @@ public class PickUp : MonoBehaviour {
     {
         // Check if it is not carrying an object
         if (other.CompareTag("Object") && !currentObj && !isHolding){
+            setPressQ();
             currentObj = other.gameObject;
         }
     }
@@ -49,8 +53,19 @@ public class PickUp : MonoBehaviour {
         {
             if (other.gameObject == currentObj && !isHolding)
             {
+                resetQ();
                 currentObj = null;
             }
         }
+    }
+
+    void setPressQ()
+    {
+        pressQ.text = "Press Q to pick up.";
+    }
+
+    void resetQ()
+    {
+        pressQ.text = "";
     }
 }
