@@ -13,7 +13,9 @@ public class PickUp : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         isHolding = false;
-	}
+        currentObj.GetComponent<Rigidbody>().useGravity = false;
+        currentObj.GetComponent<Rigidbody>().isKinematic = true;
+    }
 	
 	// Update is called once per frame
 	void FixedUpdate () {
