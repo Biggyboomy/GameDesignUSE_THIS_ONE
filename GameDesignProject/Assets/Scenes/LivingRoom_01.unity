@@ -15540,6 +15540,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ObjectiveSign_01: {fileID: 1281199974}
+--- !u!114 &2078153005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2078152996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06945f0a805502347a31fa57f07fc28e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Poop: {fileID: 0}
+  poopCount: 0
+  countText: {fileID: 0}
+  goEat: {fileID: 0}
+  pressE: {fileID: 0}
+  currentObg: {fileID: 0}
 --- !u!1001 &2082256160
 Prefab:
   m_ObjectHideFlags: 0
