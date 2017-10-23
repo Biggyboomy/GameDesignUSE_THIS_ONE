@@ -8499,7 +8499,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -269134684
+  randomSeed: 412559210
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -15656,6 +15656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ObjectiveSign_01: {fileID: 1281199974}
+  ThirdPersonController: {fileID: 2078152996}
 --- !u!114 &2078153005
 MonoBehaviour:
   m_ObjectHideFlags: 0
