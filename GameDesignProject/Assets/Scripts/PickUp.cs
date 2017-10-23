@@ -27,6 +27,8 @@ public class PickUp : MonoBehaviour {
             isHolding = true;
             currentObj.transform.position = holder.transform.position;
             currentObj.transform.parent = holder.transform;
+            currentObj.GetComponent<Rigidbody>().useGravity = false;
+            currentObj.GetComponent<Rigidbody>().isKinematic = true;
         }
 
         // Drop objects
