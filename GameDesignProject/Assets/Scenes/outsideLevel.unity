@@ -766,10 +766,13 @@ Prefab:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 1341482642}
     - target: {fileID: 4618503861671574, guid: e5c333be1b8e9f34280759b88e5fc33a, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 55.95
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
 >>>>>>> parent of 1c6e846... attempt to fix git
 =======
