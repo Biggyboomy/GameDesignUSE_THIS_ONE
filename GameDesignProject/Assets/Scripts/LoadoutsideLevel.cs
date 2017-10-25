@@ -10,7 +10,7 @@ public class LoadoutsideLevel : MonoBehaviour
             RaycastHit hit;
             if (Physics.Raycast(transform.position, transform.forward, out hit))
             {
-                Application.LoadLevel("outsideLevel_1");
+                Application.LoadLevel("outsideLevel");
             }
         }
     }
