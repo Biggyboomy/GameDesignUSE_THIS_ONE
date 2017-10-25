@@ -14,15 +14,21 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 45
     width: 1366
     height: 683
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 8
     y: 50
     width: 1904
     height: 982
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
   m_ShowMode: 4
   m_Title: 
@@ -48,12 +54,21 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1366
     height: 633
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 101
+=======
+    width: 1904
+    height: 932
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 80
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     width: 1904
     height: 932
@@ -77,6 +92,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 967
     y: 0
     width: 399
@@ -87,6 +103,17 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 16}
   - {fileID: 13}
+=======
+    x: 1518
+    y: 0
+    width: 386
+    height: 932
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     x: 1518
     y: 0
@@ -117,6 +144,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 286
     height: 392
   m_MinSize: {x: 200, y: 200}
@@ -124,6 +152,15 @@ MonoBehaviour:
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
+=======
+    width: 376
+    height: 575
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     width: 376
     height: 575
@@ -151,6 +188,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 392
     width: 967
     height: 241
@@ -170,6 +208,15 @@ MonoBehaviour:
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
   m_Panes:
+=======
+    y: 575
+    width: 1518
+    height: 357
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+>>>>>>> parent of 1c6e846... attempt to fix git
   - {fileID: 13}
   - {fileID: 18}
   m_Selected: 0
@@ -195,8 +242,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1366
     height: 683
+=======
+    width: 1904
+    height: 982
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     width: 1904
     height: 982
@@ -220,7 +272,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1366
+=======
+    width: 1904
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     width: 1904
 >>>>>>> parent of 1c6e846... attempt to fix git
@@ -244,8 +300,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 663
     width: 1366
+=======
+    y: 962
+    width: 1904
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     y: 962
     width: 1904
@@ -272,8 +333,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 967
     height: 633
+=======
+    width: 1518
+    height: 932
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     width: 1518
     height: 932
@@ -301,8 +367,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 967
     height: 392
+=======
+    width: 1518
+    height: 575
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     width: 1518
     height: 575
@@ -326,6 +397,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 286
     y: 0
     width: 681
@@ -337,6 +409,18 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 19}
   - {fileID: 14}
+=======
+    x: 376
+    y: 0
+    width: 1142
+    height: 575
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 17}
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     x: 376
     y: 0
@@ -405,6 +489,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Script: {fileID: 12141, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -433,6 +518,8 @@ MonoBehaviour:
   m_EditorHideFlags: 1
 =======
 >>>>>>> parent of 1c6e846... attempt to fix git
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
   m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -448,17 +535,23 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 381
     y: 103
     width: 1148
     height: 552
 --- !u!114 &15
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 468
     y: 181
     width: 973
     height: 501
 --- !u!114 &13
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -482,15 +575,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 486
     width: 965
     height: 220
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 8
     y: 674
     width: 1516
     height: 336
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
   m_SearchFilter:
     m_NameFilter: 
@@ -511,6 +610,7 @@ MonoBehaviour:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Yuliyan\Documents\GitHub\GameDesignUSE_THIS_ONE\GameDesignProject
   m_IsLocked: 0
   m_FolderTreeState:
@@ -522,10 +622,18 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\Jens\Documents\GitHub\GameDesignUSE_THIS_ONE\GameDesignProject
   m_IsLocked: 0
   m_FolderTreeState:
+=======
+  m_LastProjectPath: C:\Users\Jens\Documents\GitHub\GameDesignUSE_THIS_ONE\GameDesignProject
+  m_IsLocked: 0
+  m_FolderTreeState:
+>>>>>>> parent of 1c6e846... attempt to fix git
     scrollPos: {x: 0, y: 25}
     m_SelectedIDs: c03d0000
     m_LastClickedID: 15808
     m_ExpandedIDs: 000000000232000038340000403a0000443a0000d03a0000d4410000344c000000ca9a3bffffff7f
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -555,7 +663,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000004380000643a0000984000003e530000
+=======
+    m_ExpandedIDs: 000000000232000038340000403a0000443a0000d03a0000d4410000344c0000
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     m_ExpandedIDs: 000000000232000038340000403a0000443a0000d03a0000d4410000344c0000
 >>>>>>> parent of 1c6e846... attempt to fix git
@@ -613,8 +725,13 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 306
 --- !u!114 &16
+=======
+  m_DirectoriesAreaWidth: 115
+--- !u!114 &14
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
@@ -641,15 +758,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 969
     y: 94
     width: 397
     height: 612
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 1528
     y: 99
     width: 384
     height: 911
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -659,7 +782,11 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &17
+=======
+--- !u!114 &15
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
 --- !u!114 &15
 >>>>>>> parent of 1c6e846... attempt to fix git
@@ -685,6 +812,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 94
     width: 284
@@ -694,6 +822,17 @@ MonoBehaviour:
     m_SelectedIDs: 8c62fbff
     m_LastClickedID: -302452
     m_ExpandedIDs: f467fbff086bfeff2e70ffff9273ffff42deffff00000000fc4e0000ec7d0000e6d0000014cc0100
+=======
+    x: 8
+    y: 99
+    width: 374
+    height: 554
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 86b2ffff52eafffffafaffff00000000204d0000
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     x: 8
     y: 99
@@ -728,7 +867,11 @@ MonoBehaviour:
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &18
+=======
+--- !u!114 &16
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
 --- !u!114 &16
 >>>>>>> parent of 1c6e846... attempt to fix git
@@ -754,6 +897,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 288
     y: 94
     width: 677
@@ -761,21 +905,32 @@ MonoBehaviour:
   m_SceneLighting: 1
   lastFramingTime: 1043.5584476293957
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 386
     y: 99
     width: 1138
     height: 554
   m_SceneLighting: 1
   lastFramingTime: 262.0402885368757
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 45.14068, y: 1.0778782, z: 22.620438}
     speed: 2
     m_Value: {x: 45.14068, y: 1.0778782, z: 22.620438}
+=======
+    m_Target: {x: 34.465004, y: 1.1081727, z: 38.195057}
+    speed: 2
+    m_Value: {x: 34.465004, y: 1.1081727, z: 38.195057}
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     m_Target: {x: 34.465004, y: 1.1081727, z: 38.195057}
     speed: 2
@@ -804,6 +959,7 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.008377421, y: 0.99079216, z: -0.07295418, w: 0.113747716}
     speed: 2
     m_Value: {x: 0.008377421, y: 0.99079216, z: -0.07295418, w: 0.113747716}
@@ -811,6 +967,15 @@ MonoBehaviour:
     m_Target: 8.22626
     speed: 2
     m_Value: 8.22626
+=======
+    m_Target: {x: 0.007964821, y: -0.99082434, z: 0.11677148, w: 0.06758793}
+    speed: 2
+    m_Value: {x: 0.007964821, y: -0.99082434, z: 0.11677148, w: 0.06758793}
+  m_Size:
+    m_Target: 4.673894
+    speed: 2
+    m_Value: 4.673894
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
     m_Target: {x: 0.007964821, y: -0.99082434, z: 0.11677148, w: 0.06758793}
     speed: 2
@@ -832,7 +997,11 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &19
+=======
+--- !u!114 &17
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
 --- !u!114 &17
 >>>>>>> parent of 1c6e846... attempt to fix git
@@ -858,15 +1027,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 288
     y: 94
     width: 677
     height: 371
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 386
     y: 99
     width: 1138
     height: 554
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -877,15 +1052,21 @@ MonoBehaviour:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -338.5
     m_HBaseRangeMax: 338.5
     m_VBaseRangeMin: -177
     m_VBaseRangeMax: 177
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     m_HBaseRangeMin: -569
     m_HBaseRangeMax: 569
     m_VBaseRangeMin: -268.5
     m_VBaseRangeMax: 268.5
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -904,10 +1085,17 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 677
       height: 354
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 338.5, y: 177}
+=======
+      width: 1138
+      height: 537
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 569, y: 268.5}
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
       width: 1138
       height: 537
@@ -921,26 +1109,40 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -338.5
       y: -177
       width: 677
       height: 354
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
       x: -569
       y: -268.5
       width: 1138
       height: 537
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 677, y: 371}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
 --- !u!114 &20
+=======
+  m_LastWindowPixelSize: {x: 1138, y: 554}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+--- !u!114 &18
+>>>>>>> parent of 1c6e846... attempt to fix git
 =======
   m_LastWindowPixelSize: {x: 1138, y: 554}
   m_ClearInEditMode: 1
@@ -970,13 +1172,19 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 486
     width: 965
     height: 220
 =======
+=======
+>>>>>>> parent of 1c6e846... attempt to fix git
     x: 8
     y: 718
     width: 1366
     height: 308
+<<<<<<< HEAD
+>>>>>>> parent of 1c6e846... attempt to fix git
+=======
 >>>>>>> parent of 1c6e846... attempt to fix git
