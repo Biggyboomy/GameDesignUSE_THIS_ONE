@@ -11,6 +11,3 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LivingRoom_01.unity
     guid: 182542aef12eb354fa43ee1cfc9cc66a
-  - enabled: 1
-    path: Assets/Scenes/outsideLevel_1.unity
-    guid: 294a99f930b05b146a0334793e266432
